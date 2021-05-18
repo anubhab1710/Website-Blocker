@@ -1,4 +1,5 @@
 # <p align = "center"> Website Blocker using PC Hosts files </p>
+![Website-Blocker](https://socialify.git.ci/anubhab1710/Website-Blocker/image?font=KoHo&language=1&owner=1&pattern=Charlie%20Brown&stargazers=1&theme=Dark)
 ## Introduction: 
 This is a script that aims to implement a website blocking utility for Windows-based systems. It makes use of the computer's hosts files and runs it as a background process, preventing access to the sites entered by the user in array format.
 ## Third-party libraries required:
